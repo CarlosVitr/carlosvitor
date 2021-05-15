@@ -1,0 +1,16 @@
+{
+  "name": "Carlos",
+  "version": "0.1.0",
+  "description": "Carlos Vítor",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "run index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "main": "./index.json",
+  "author": "Carlos Vítor",
+  "license": "EPL"
+}
