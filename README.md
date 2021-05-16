@@ -1,6 +1,8 @@
-# Carlos
+# Carlos <sup>
+![selo da versão](https://version-badge.egoist.sh/npm/carlosvitor)
+ </sup>
 
-Minirepository with files from a small module about me.
+> Minirepository with files from a small module about me.
 
 First use this:
 
